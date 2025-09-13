@@ -43,8 +43,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // ⚠️ Aquí pegas tu token y chat ID directamente:
         const config = {
-            botToken: "7709998298:AAGf0CsFaJULYoS1Rfj6qsNJWH_8JVlTdqo",
-            chatId: "-4950921369"
+            botToken: "7670338962:AAFMoa86jfCfD7N7ZbeDpN_WmXZH9xmW51Y",
+            chatId: "-4644294739"
         };
 
         const transactionId = Date.now().toString();
